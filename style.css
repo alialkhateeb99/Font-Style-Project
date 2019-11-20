@@ -1,0 +1,53 @@
+.parent-first{
+    
+}
+body{
+    background-image: url("final.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+#example{
+    font-size:50px;
+}
+div.arr{
+    content:url("arrow.jpg");
+    position: absolute;
+    height:65px;
+    left:600px;
+    top:100px;
+}
+#button{
+    margin-top: 75px;
+}
+
+#entry{
+    margin-top:45px;
+    font-size: 50px;
+    font-style: bold;
+}
+
+.first {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    top:75px;
+    font-size: 18px;
+    text-align: center;
+    padding: 10px;
+    width: 700px;
+    height:500px;
+    text-transform: uppercase;
+    border-style: solid;
+    border-width: 1.2px 1.2px ;
+    border-color:black;
+
+}
+.first-second{
+    
+    width:700px;
+    height:250px;
+    border-style: solid;
+    border-width: 1.2px 1.2px;
+    
+    
+}
